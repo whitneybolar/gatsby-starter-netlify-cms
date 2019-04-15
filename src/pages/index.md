@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Whitney Bolar
-image: /img/home-jumbotron.jpg
+image: /img/china-coffee-cup.jpg
 heading: What's your favorite dinner food?
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
